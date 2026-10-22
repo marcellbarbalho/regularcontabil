@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="metal-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4A359"/>
+      <stop offset="100%" stop-color="#9C6B28"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#0B221C"/>
+  <!-- Minimalist Geometric Monogram R -->
+  <path d="M20 16H34C40.5 16 45 19.8 45 26C45 31.2 41.5 35 36 36L45.5 48H37.5L29 37.5H27V48H20V16ZM27 31.5H33.5C36.8 31.5 38.5 29.8 38.5 26C38.5 22.2 36.8 21.5 33.5 21.5H27V31.5Z" fill="url(#metal-grad)"/>
+  <circle cx="46" cy="18" r="3" fill="#FAF8F3" opacity="0.95"/>
+</svg>
