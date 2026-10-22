@@ -822,6 +822,17 @@ body {
     color: #9CAAA3;
 }
 
+.footer-credit a {
+    color: #FAF8F3;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    transition: color 0.2s ease;
+}
+
+.footer-credit a:hover {
+    color: var(--metal);
+}
+
 /* --- Floating WhatsApp Button --- */
 .whatsapp-float {
     position: fixed;
